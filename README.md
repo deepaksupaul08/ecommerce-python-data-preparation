@@ -32,7 +32,7 @@ The final dataset is designed to support business reporting and interactive dash
 - Google Colab
 - Git
 - GitHub
-- Power BI *(Dashboard to be added)*
+- Power BI
 
 ---
 
@@ -97,7 +97,7 @@ ecommerce-python-data-preparation/
 
 ---
 
-## Future Enhancements
+## Dashboards and Images
 
 - Interactive Power BI Dashboard
 - Customer Segmentation
@@ -106,7 +106,3 @@ ecommerce-python-data-preparation/
 - Delivery Performance Analysis
 
 ---
-
-## Author
-
-**Deepak Supaul**
