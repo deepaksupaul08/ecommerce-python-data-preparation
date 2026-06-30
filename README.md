@@ -88,10 +88,9 @@ The project uses the Olist Brazilian E-Commerce dataset, which includes:
 ```text
 ecommerce-python-data-preparation/
 │
-├── notebooks/
+├── notebook/
 ├── datasets/
-├── images/
-├── powerbi/
+├── dashboard_images/
 └── README.md
 ```
 
